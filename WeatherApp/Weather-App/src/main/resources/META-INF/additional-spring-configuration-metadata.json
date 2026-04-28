@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.weather.api.key",
+      "type": "java.lang.String",
+      "description": "Description for spring.weather.api.key."
+  }
+] }
